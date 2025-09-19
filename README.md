@@ -1,9 +1,7 @@
 # DF_ESC_rev01_1
 This repository contains the file projects for the DF_ESC_rev01_1 open source project of the Electronic Speed Controller
 
-The whole video series on the project is built is available @youtube.com/@fresudario
-
-For more resources you can visit my website @ dariofresu.com
+The whole course on the project is available here: https://www.fresuelectronics.com/pcb-design-course
 
 Have fun and Keep designing,
 Dario
